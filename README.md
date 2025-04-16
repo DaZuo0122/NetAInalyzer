@@ -1,2 +1,2 @@
 # NetAInalyzer
-**WIP**: Please refer `dev` branch if you want to contribute
+**WIP**: Please refer `design.md` if you want to contribute
