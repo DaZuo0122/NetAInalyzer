@@ -1,0 +1,10 @@
+[project]
+name = "NetAInalysis"
+version = "0.1.0"
+description = "An AI integrated network analysis tool"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyside6>=6.9.0",
+    "scapy>=2.6.1",
+]
